@@ -1,0 +1,11 @@
+body {
+	background-color: blue;
+}
+
+.topMenu {
+	display: inline-block;
+}
+
+#main {
+	background-color: white;
+}
